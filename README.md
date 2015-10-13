@@ -13,3 +13,7 @@ In this repository, for XQDT-Plugin you will find:
 :x: Executable tool (not available)
 
 This repository was constructed by [Rishi Anne](https://github.com/rishielnino) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson).
+
+## Attribution
+
+Authors of tool: Dr. 	Pierre Genevès and Dr. Nabil Layaïda.
