@@ -3,7 +3,7 @@ A plugin for static detection of inconsistent paths for simplifying the developm
 
 This repository contains information related to the plugin XQDT in eclipse  presented in the International Conference on Software Engineering, 2011.
 
-You can find the paper on the folloing  [link] (http://dl.acm.org/citation.cfm?doid=1985793.1985967).
+You can find the paper on the following  [link] (http://dl.acm.org/citation.cfm?doid=1985793.1985967).
 
 This repository is not the original repository for this tool.
 
