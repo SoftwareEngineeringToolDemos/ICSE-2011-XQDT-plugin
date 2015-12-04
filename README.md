@@ -5,7 +5,7 @@ This repository contains information related to the plugin XQDT in eclipse  pres
 
 You can find the paper on the following  [link] (http://dl.acm.org/citation.cfm?doid=1985793.1985967).
 
-This repository is not the original repository for this tool.
+This repository _is not_ the original repository for this tool.
 
 In this repository, for XQDT-Plugin you will find:
 
