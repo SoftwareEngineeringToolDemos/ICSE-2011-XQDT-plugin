@@ -8,7 +8,6 @@ You can find the paper on the following  [link] (http://dl.acm.org/citation.cfm?
 This repository _is not_ the original repository for this tool.
 
 In this repository, for XQDT-Plugin you will find:
-
 * :x: Source code (not available)
 * :x: Executable tool (not available)
 * :x: Virtual machine containing tool (not available)
